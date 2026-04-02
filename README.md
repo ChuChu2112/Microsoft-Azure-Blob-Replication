@@ -6,3 +6,6 @@ Usually, this every region has a region pair. This is by Microsoft's design. The
 The region paired to your primary region may not be of buisness sense to you.
 That is where utilizing object replication is helpful.
 For object replication to work, blob versioning must be configured in both storage accounts.
+
+Please note that the json files and pictures have been uploaded in the order that reflects the way object replication should be configured.
+# az104publicaccessacct2 was deployed using a modified 'az104publicaccessaccount.json' ARM template
